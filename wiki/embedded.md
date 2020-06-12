@@ -12,4 +12,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [Zenith - Osciloscope](https://github.com/zenitheesc/Zenith-Osciloscope/wiki)
 
 ## Low-level projects 
-* [Cube Design 2019](https://github.com/zenitheesc/CubeDesign-2019)
+* [Cube Design 2019](https://github.com/zenitheesc/CubeDesign-2019/wiki)
