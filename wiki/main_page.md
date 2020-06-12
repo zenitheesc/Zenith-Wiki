@@ -29,9 +29,10 @@ In this wiki you can learn more about the projects our departments have been wor
 > - 2nd Place - Global Space Balloon Challenge ("Best Experiment" Category, 2016)
 
 # Our Departments
-* [EMBEDDED SYSTEMS DEPARTMENT](https://zenitheesc.github.io/zenith-wiki/embedded.html) 
-* [STRUCTURES DEPARTMENT](https://zenitheesc.github.io/zenith-wiki/structures.html) 
-* [ASTRONAUTICS DEPARTMENT](https://zenitheesc.github.io/zenith-wiki/astronautics.html) 
+## * [Embedded Systems Department](https://zenitheesc.github.io/zenith-wiki/embedded.html) 
+## * [Structures Department](https://zenitheesc.github.io/zenith-wiki/structures.html) 
+## * [Astronautics Department](https://zenitheesc.github.io/zenith-wiki/astronautics.html) 
+
 # Get to know us!
 [Our Website](http://zenith.eesc.usp.br/wp/)
 
