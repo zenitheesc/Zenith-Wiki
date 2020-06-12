@@ -7,5 +7,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [Zenith Monitor](https://github.com/zenitheesc/Genus/wiki)
 
 ## Hardware Projects
+* [Genus](https://github.com/zenitheesc/Genus/wiki)
+* [USPSat-V.1.0](https://github.com/zenitheesc/USPSat-v.1.0/wiki)
+* [Zenith - Osciloscope](https://github.com/zenitheesc/Zenith-Osciloscope/wiki)
 
 ## Low-level projects 
+* [Cube Design 2019](https://github.com/zenitheesc/CubeDesign-2019)
