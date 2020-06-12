@@ -1,6 +1,3 @@
----
-redirect_from: /structures
-published: true
----
+# Structures
 
 lorem ipsum etc etc development ta
