@@ -16,7 +16,7 @@ Using **Metheorological Balloons** we can bring **Stratospheric Probes** up to a
 
 In this wiki you can learn more about the projects our departments have been working on.
 
-## Contribute to the wiki
+## Contribute to the Wiki
 
 [How to post]
 (screenshot do prose.io com uma setinha mostrando onde clicar teste)
@@ -28,6 +28,10 @@ In this wiki you can learn more about the projects our departments have been wor
 > - Featured Project at Campus Party (2017)
 > - 2nd Place - Global Space Balloon Challenge ("Best Experiment" Category, 2016)
 
+# Our Departments
+* [EMBEDDED SYSTEMS DEPARTMENT](https://zenitheesc.github.io/zenith-wiki/embedded.html) 
+* [STRUCTURES DEPARTMENT](https://zenitheesc.github.io/zenith-wiki/structures.html) 
+* [ASTRONAUTICS DEPARTMENT](https://zenitheesc.github.io/zenith-wiki/astronautics.html) 
 # Get to know us!
 [Our Website](http://zenith.eesc.usp.br/wp/)
 
