@@ -31,9 +31,19 @@ In this wiki you can learn more about the projects our departments have been wor
 
 # Get to know us!
 
-## - [Embedded Systems Department](https://zenitheesc.github.io/zenith-wiki/embedded.html) 
-## - [Structures Department](https://zenitheesc.github.io/zenith-wiki/structures.html) 
-## - [Astronautics Department](https://zenitheesc.github.io/zenith-wiki/astronautics.html) 
+## Embedded Systems Department
+The people responsible for [...]
+[Click here to be redirected](https://zenitheesc.github.io/zenith-wiki/embedded.html)
+
+## Structures Department
+The people responsible for [...]
+[Click here to be redirected](https://zenitheesc.github.io/zenith-wiki/structures.html)
+
+## Astronautics Department 
+The peopl responsible for [...]
+[Click here to be redirected](https://zenitheesc.github.io/zenith-wiki/astronautics.html)
+
+***
 
 [Our Website](http://zenith.eesc.usp.br/wp/)
 
