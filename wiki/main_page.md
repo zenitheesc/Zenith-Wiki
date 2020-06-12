@@ -22,25 +22,28 @@ In this wiki you can learn more about the projects our departments have been wor
 (screenshot do prose.io com uma setinha mostrando onde clicar teste)
 
 ## Some of our achievements
-> - 1st Place - Cubedesign (INPE,2018)
-> - 3rd Place - Global Space Balloon Challenge ("Best Design" Category, 2018)
-> - Featured Project at Campus Party (2018)
-> - Featured Project at Campus Party (2017)
-> - 2nd Place - Global Space Balloon Challenge ("Best Experiment" Category, 2016)
+> - **1st Place** - Cubedesign (INPE,2018)
+> - **3rd Place** - Global Space Balloon Challenge ("Best Design" Category, 2018)
+> - **Featured Project** at Campus Party (2018)
+> - **Featured Project** at Campus Party (2017)
+> - **2nd Place** - Global Space Balloon Challenge ("Best Experiment" Category, 2016)
 
 
 # Get to know us!
 
 ## Embedded Systems Department
 The people responsible for [...]
+
 [Click here to be redirected](https://zenitheesc.github.io/zenith-wiki/embedded.html)
 
 ## Structures Department
 The people responsible for [...]
+
 [Click here to be redirected](https://zenitheesc.github.io/zenith-wiki/structures.html)
 
 ## Astronautics Department 
 The peopl responsible for [...]
+
 [Click here to be redirected](https://zenitheesc.github.io/zenith-wiki/astronautics.html)
 
 ***
