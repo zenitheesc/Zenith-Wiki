@@ -74,5 +74,3 @@ plugins:
 #inc_after_content: "drassil/comments.html"
 inc_after_head : "drassil/head.html"
 inc_before_page_list : "drassil/sidebar.html"
-
-theme: jekyll-theme-cayman
