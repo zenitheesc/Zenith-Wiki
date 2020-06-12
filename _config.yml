@@ -2,7 +2,7 @@
 title: Zenith wiki
 demo_ver: 1.0.1
 remote_theme: Drassil/git-wiki-theme@865e801
-description: *The sky is not the limit, it is just the beginning.*
+description: "The sky is not the limit, it is just the beginning."
 show_downloads: false
 show_wiki_pages: true
 show_wiki_pages_limit: 10
