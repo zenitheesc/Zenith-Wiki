@@ -32,7 +32,7 @@ In this wiki you can learn more about the projects our departments have been wor
 # Get to know us!
 
 ## Embedded Systems Department
-The people responsible for [...]
+The people responsible for researching and developing technologies related to aerospacial applications within the scope of Zenith Aerospace’s interests.
 
 [Click here to be redirected](https://zenitheesc.github.io/Zenith-Wiki/embedded.html)
 
