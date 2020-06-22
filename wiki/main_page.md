@@ -16,11 +16,6 @@ Using **Metheorological Balloons** we can bring **Stratospheric Probes** up to a
 
 In this wiki you can learn more about the projects our departments have been working on.
 
-## Contribute to the Wiki
-
-[How to post]
-(screenshot do prose.io com uma setinha mostrando onde clicar teste)
-
 ## Some of our achievements
 > - **1st Place** - Cubedesign (INPE,2018)
 > - **3rd Place** - Global Space Balloon Challenge ("Best Design" Category, 2018)
