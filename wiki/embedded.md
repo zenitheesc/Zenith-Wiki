@@ -4,7 +4,9 @@ The department is divided in subgroups, each one with specific development goals
 
 
 ### [Report Maker](https://github.com/zenitheesc/Report_Maker/wiki)
-### [Genus](https://github.com/zenitheesc/Genus/wiki)
+Open-source software developed to ease the creation of reports related to the group Zenith Aerospace (EESC-USP)
+ 
+ 
 ### [Zenith Monitor](https://github.com/zenitheesc/Genus/wiki)
 ### [Genus](https://github.com/zenitheesc/Genus/wiki)
 ### [USPSat-V.1.0](https://github.com/zenitheesc/USPSat-v.1.0/wiki)
