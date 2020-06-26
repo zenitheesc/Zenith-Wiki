@@ -10,8 +10,10 @@ Open-source software developed to ease the creation of reports related to the gr
 ### [Zenith Monitor](https://github.com/zenitheesc/Zenith-Monitor/wiki)
 A mobile application intended to aid us,  and possibly other teams, to recover our stratospheric probes after their operations
 
+
 ### [Genus](https://github.com/zenitheesc/Genus/wiki)
 Open Hardware Plataform for Aerospace projects developed to atend multi purpose missions
+
 
 ### [USPSat-V.1.0](https://github.com/zenitheesc/USPSat-v.1.0/wiki)
 
@@ -36,8 +38,12 @@ Firmware implementation of USPSat v.1.0 for the second Cube Design competition
 
 
 ### [Aker - Code Generator](https://github.com/zenitheesc/Aker/wiki)
+The project of an code generator for low levels aplications
+
 
 ### [STM32-Libraries]()
+Libraries of sensors and communication protocols developed for STM32 microcontrollers
+
 
 ### [Live-Feed](https://github.com/zenitheesc/livefeed/wiki)
 
