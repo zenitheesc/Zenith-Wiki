@@ -22,12 +22,12 @@ Using **Metheorological Balloons** we can bring **Stratospheric Probes** up to a
 > - **Featured Project** at Campus Party (2017)
 > - **2nd Place** - Global Space Balloon Challenge ("Best Experiment" Category, 2016)
 
-
+\textcolor{test}
 # Get to know us!
 
-## [Embedded Systems Department](https://zenitheesc.github.io/Zenith-Wiki/embedded.html)
+## Embedded Systems Department
 The people responsible for researching and developing technologies related to aerospacial applications within the scope of Zenith Aerospace’s interests.
-
+[Click here to be redirected](https://zenitheesc.github.io/Zenith-Wiki/embedded.html)
 
 ## [Structures Department](https://zenitheesc.github.io/Zenith-Wiki/structures.html)
 The people responsible for [...]
