@@ -16,13 +16,15 @@ Open Hardware Plataform for Aerospace projects developed to atend multi purpose 
 
 
 ### [USPSat-V.1.0](https://github.com/zenitheesc/USPSat-v.1.0/wiki)
+The Cubesat project developed using ARM architecture and distributed processing, aimed to second INPE Cubedesign
 
 
 ### [ZenSat_1.0](https://github.com/zenitheesc/ZenSat_1.0/wiki)
-
+The first project of a cubesat developed by the group aimed to first INPE Cube Design Competition 
 
 
 ### [GroundStation-Mobile](https://github.com/zenitheesc/GroundStation-Mobile/wiki)
+Development of a hardware to be an interface between Caurin Std v.1.0 and Zenith Monitor in some tests
 
 
 ### [Zenith - Oscilloscope](https://github.com/zenitheesc/Zenith-Osciloscope/wiki)
