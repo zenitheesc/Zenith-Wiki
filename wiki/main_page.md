@@ -25,20 +25,16 @@ Using **Metheorological Balloons** we can bring **Stratospheric Probes** up to a
 
 # Get to know us!
 
-## Embedded Systems Department
+## [Embedded Systems Department](https://zenitheesc.github.io/Zenith-Wiki/embedded.html)
 The people responsible for researching and developing technologies related to aerospacial applications within the scope of Zenith Aerospace’s interests.
 
-[Click here to be redirected](https://zenitheesc.github.io/Zenith-Wiki/embedded.html)
 
-## Structures Department
+## [Structures Department](https://zenitheesc.github.io/Zenith-Wiki/structures.html)
 The people responsible for [...]
 
-[Click here to be redirected](https://zenitheesc.github.io/Zenith-Wiki/structures.html)
 
-## Astronautics Department 
+## [Astronautics Department](https://zenitheesc.github.io/Zenith-Wiki/astronautics.html)
 The peopl responsible for [...]
-
-[Click here to be redirected](https://zenitheesc.github.io/Zenith-Wiki/astronautics.html)
 
 ***
 
