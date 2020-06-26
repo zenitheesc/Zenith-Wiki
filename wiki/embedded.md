@@ -23,7 +23,7 @@ The Cubesat project developed using ARM architecture and distributed processing,
 The first project of a cubesat developed by the group aimed to first INPE Cube Design Competition 
 
 
-### [GroundStation-Mobile](https://github.com/zenitheesc/GroundStation-Mobile/wiki)
+### [Ground Station-Mobile](https://github.com/zenitheesc/GroundStation-Mobile/wiki)
 Development of a hardware to be an interface between Caurin Std v.1.0 and Zenith Monitor in some tests
 
 
@@ -48,10 +48,14 @@ Libraries of sensors and communication protocols developed for STM32 microcontro
 
 
 ### [Live-Feed](https://github.com/zenitheesc/livefeed/wiki)
+Real time images transmition using LoRa modulation
+
 
 ### [Garatea-V](https://github.com/zenitheesc/Garatea-V/wiki)
 
+
 ### [Garatea-3](https://github.com/zenitheesc/garatea3/wiki)
+
 
 ### [Garatea-2](https://github.com/zenitheesc/garatea2/wiki)
 
