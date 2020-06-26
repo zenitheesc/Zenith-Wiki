@@ -9,9 +9,12 @@ We're an **engineering group** linked to the **University of São Paulo(USP)** b
 
 
 **Zenith Aerospace** was created in 2014, with the goal to bring technology, aerospace engineering and students **closer together**.
-<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
+
 
 Using **Metheorological Balloons** we can bring **Stratospheric Probes** up to a height of **30km** (around 18.6 miles), exposing them to an **external environment**, allowing us to **test and prototipe** systems that may be **launched into deeper space** someday.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QoqiUDDEepY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **In this wiki you can learn more about the projects our departments have been working on.**
