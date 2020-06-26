@@ -15,6 +15,7 @@ Using **Metheorological Balloons** we can bring **Stratospheric Probes** up to a
 
 
 In this wiki you can learn more about the projects our departments have been working on.
+[![](http://img.youtube.com/vi/QoqiUDDEepY/0.jpg)](http://www.youtube.com/watch?v=QoqiUDDEepY "Zenith Aerospace")
 
 ## Some of our achievements
 > - **1st Place** - Cubedesign (INPE,2018)
