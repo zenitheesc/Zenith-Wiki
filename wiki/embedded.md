@@ -19,10 +19,12 @@ A mobile application intended to aid us,  and possibly other teams, to recover o
 ### [ZenSat_1.0](https://github.com/zenitheesc/ZenSat_1.0/wiki)
 
 
+
 ### [GroundStation-Mobile](https://github.com/zenitheesc/GroundStation-Mobile/wiki)
 
 
 ### [Zenith - Osciloscope](https://github.com/zenitheesc/Zenith-Osciloscope/wiki)
+Educational oscilloscope developed to be used in training for students
 
 
 ### [Analog-PID-Controller](https://github.com/zenitheesc/Analog-PID-Controller/wiki)
@@ -32,7 +34,7 @@ A mobile application intended to aid us,  and possibly other teams, to recover o
 
 ### [Aker - Code Generator](https://github.com/zenitheesc/Aker/wiki)
 
-### [Libraries]()
+### [STM32-Libraries]()
 
 ### [Live-Feed](https://github.com/zenitheesc/livefeed/wiki)
 
