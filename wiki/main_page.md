@@ -7,6 +7,7 @@ published: true
 
 We're an **engineering group** linked to the **University of São Paulo(USP)** based in São Carlos,SP (Brazil).
 
+AAAABBBCCC
 
 **Zenith Aerospace** was created in 2014, with the goal to bring technology, aerospace engineering and students **closer together**.
 
