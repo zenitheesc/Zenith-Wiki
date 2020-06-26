@@ -4,8 +4,8 @@ demo_ver: 1.0.1
 remote_theme: Drassil/git-wiki-theme@865e801
 description: "The sky is not the limit, it is just the beginning."
 show_downloads: false
-show_wiki_pages: false
-show_wiki_pages_limit: 0
+show_wiki_pages: true
+show_wiki_pages_limit: 2
 paginate: 5
 paginate_path: "assets/blog/page:num"
 blog_feature: false
