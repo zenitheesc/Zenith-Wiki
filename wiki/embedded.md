@@ -11,7 +11,7 @@ Open-source software developed to ease the creation of reports related to the gr
 A mobile application intended to aid us,  and possibly other teams, to recover our stratospheric probes after their operations
 
 ### [Genus](https://github.com/zenitheesc/Genus/wiki)
-Open Hardware Platafor for Aerospace projects developed to atend multi purpose
+Open Hardware Plataform for Aerospace projects developed to atend multi purpose missions
 
 ### [USPSat-V.1.0](https://github.com/zenitheesc/USPSat-v.1.0/wiki)
 
@@ -28,9 +28,12 @@ Oscilloscope developed in order to be used in educational projects
 
 
 ### [Analog-PID-Controller](https://github.com/zenitheesc/Analog-PID-Controller/wiki)
+Implemntation of a PID controler aimed to educational projects
 
 
 ### [Cube Design 2019](https://github.com/zenitheesc/CubeDesign-2019/wiki)
+Firmware implementation of USPSat v.1.0 for the second Cube Design competition
+
 
 ### [Aker - Code Generator](https://github.com/zenitheesc/Aker/wiki)
 
