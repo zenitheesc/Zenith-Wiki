@@ -23,8 +23,6 @@ Using **Metheorological Balloons** we can bring **Stratospheric Probes** up to a
 > - **2nd Place** - Global Space Balloon Challenge ("Best Experiment" Category, 2016)
 
 
-# Get to know us!
-
 ## Embedded Systems Department
 The people responsible for researching and developing technologies related to aerospacial applications within the scope of Zenith Aerospace’s interests.
 
