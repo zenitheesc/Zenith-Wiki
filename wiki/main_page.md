@@ -14,9 +14,11 @@ We're an **engineering group** linked to the **University of São Paulo(USP)** b
 Using **Metheorological Balloons** we can bring **Stratospheric Probes** up to a height of **30km** (around 18.6 miles), exposing them to an **external environment**, allowing us to **test and prototipe** systems that may be **launched into deeper space** someday.
 
 
-In this wiki you can learn more about the projects our departments have been working on.
+
 [![](http://img.youtube.com/vi/QoqiUDDEepY/0.jpg)](http://www.youtube.com/watch?v=QoqiUDDEepY "Zenith Aerospace")
 
+
+**In this wiki you can learn more about the projects our departments have been working on.**
 ## Some of our achievements
 > - **1st Place** - Cubedesign (INPE,2018)
 > - **3rd Place** - Global Space Balloon Challenge ("Best Design" Category, 2018)
