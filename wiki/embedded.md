@@ -7,10 +7,25 @@ The department is divided in subgroups, each one with specific development goals
 Open-source software developed to ease the creation of reports related to the group Zenith Aerospace (EESC-USP)
  
  
-### [Zenith Monitor](https://github.com/zenitheesc/Genus/wiki)
+### [Zenith Monitor](https://github.com/zenitheesc/Zenith-Monitor/wiki)
+A mobile application intended to aid us,  and possibly other teams, to recover our stratospheric probes after their operations
+
 ### [Genus](https://github.com/zenitheesc/Genus/wiki)
+
+
 ### [USPSat-V.1.0](https://github.com/zenitheesc/USPSat-v.1.0/wiki)
+
+
 ### [Zenith - Osciloscope](https://github.com/zenitheesc/Zenith-Osciloscope/wiki)
+
+
+### [Analog-PID-Controller](https://github.com/zenitheesc/Analog-PID-Controller/wiki)
+
+
 ### [Cube Design 2019](https://github.com/zenitheesc/CubeDesign-2019/wiki)
+
+
 ### [Libraries]()
+
+
 ### [Aker - Code Generator](https://github.com/zenitheesc/Aker/wiki)
