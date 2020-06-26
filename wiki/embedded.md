@@ -11,7 +11,7 @@ Open-source software developed to ease the creation of reports related to the gr
 A mobile application intended to aid us,  and possibly other teams, to recover our stratospheric probes after their operations
 
 ### [Genus](https://github.com/zenitheesc/Genus/wiki)
-
+Open Hardware Platafor for Aerospace projects developed to atend multi purpose
 
 ### [USPSat-V.1.0](https://github.com/zenitheesc/USPSat-v.1.0/wiki)
 
@@ -23,8 +23,8 @@ A mobile application intended to aid us,  and possibly other teams, to recover o
 ### [GroundStation-Mobile](https://github.com/zenitheesc/GroundStation-Mobile/wiki)
 
 
-### [Zenith - Osciloscope](https://github.com/zenitheesc/Zenith-Osciloscope/wiki)
-Educational oscilloscope developed to be used in training for students
+### [Zenith - Oscilloscope](https://github.com/zenitheesc/Zenith-Osciloscope/wiki)
+Oscilloscope developed in order to be used in educational projects
 
 
 ### [Analog-PID-Controller](https://github.com/zenitheesc/Analog-PID-Controller/wiki)
@@ -43,3 +43,5 @@ Educational oscilloscope developed to be used in training for students
 ### [Garatea-3](https://github.com/zenitheesc/garatea3/wiki)
 
 ### [Garatea-2](https://github.com/zenitheesc/garatea2/wiki)
+
+
