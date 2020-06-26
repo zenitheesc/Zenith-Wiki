@@ -43,5 +43,3 @@ Educational oscilloscope developed to be used in training for students
 ### [Garatea-3](https://github.com/zenitheesc/garatea3/wiki)
 
 ### [Garatea-2](https://github.com/zenitheesc/garatea2/wiki)
-
-
