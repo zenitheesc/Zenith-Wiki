@@ -8,26 +8,26 @@
     <a href="https://eesc.usp.br/">
     <img src="https://img.shields.io/badge/Linked%20to-EESC--USP-black?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/zenitheesc/Zenith-Wiki/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/zenitheesc/Zenith-Wiki?style=for-the-badge"/>
+    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/zenitheesc/Zenith-Wiki/issues">
-    <img src="https://img.shields.io/github/issues/zenitheesc/Zenith-Wiki?style=for-the-badge"/>
+    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/issues">
+    <img src="https://img.shields.io/github/issues/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/zenitheesc/Zenith-Wiki/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/m/zenitheesc/Zenith-Wiki?style=for-the-badge">
+    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/commits/main">
+    <img src="https://img.shields.io/github/commit-activity/m/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge">
     </a>
-    <a href="https://github.com/zenitheesc/Zenith-Wiki/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/zenitheesc/Zenith-Wiki?style=for-the-badge"/>
+    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/zenitheesc/Zenith-Wiki/commits/main">
-    <img src="https://img.shields.io/github/last-commit/zenitheesc/Zenith-Wiki?style=for-the-badge"/>
+    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/commits/main">
+    <img src="https://img.shields.io/github/last-commit/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/zenitheesc/Zenith-Wiki/issues">
-    <img src="https://img.shields.io/github/issues-raw/zenitheesc/Zenith-Wiki?style=for-the-badge" />
+    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/issues">
+    <img src="https://img.shields.io/github/issues-raw/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge" />
     </a>
-    <a href="https://github.com/zenitheesc/Zenith-Wiki/pulls">
-    <img src = "https://img.shields.io/github/issues-pr-raw/zenitheesc/Zenith-Wiki?style=for-the-badge">
+    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/pulls">
+    <img src = "https://img.shields.io/github/issues-pr-raw/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge">
     </a>
 </p>
 
@@ -54,6 +54,11 @@ You can check the prototype at [https://zenitheesc.github.io/Zenith-Wiki/main_pa
 
 This project has been **archived**. Which means we're not currently working on it at the moment. Suggestions are always welcome though and you can reach us on our Social Media linked below. 
 
+
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="" src="https://user-images.githubusercontent.com/61189874/115128698-dbc5c380-9fb5-11eb-9ced-bc9eb40c8fee.png"> |  <img width="1604" alt="" src="https://user-images.githubusercontent.com/61189874/115128706-eda76680-9fb5-11eb-8208-ceb3c692e65c.png">|
 ---
 
 <p align="center">
