@@ -1,5 +1,5 @@
-<h1 align="center" style="color:white; background-color:black">[PROJECT NAME]</h1>
-<h4 align="center">[insert *brief* project description]</h4>
+<h1 align="center" style="color:white; background-color:black">Zenith Wiki</h1>
+<h4 align="center">Simple proof-of-concept of a dedicated environment used to document Zenith's projects and scientific progress. A "knowledge-hub".</h4>
 
 <p align="center">
 	<a href="http://zenith.eesc.usp.br/">
@@ -39,17 +39,20 @@
 
 ## Environment and tools
 
-`Add list of dependencies and software needed to run this project (if possible add the versions that were used in development).`
+**Building the website:**
 
-## Steps to run and debug
+To build the website we used a [jekyll](https://jekyllrb.com/) template which allowed us to quickly test this idea without worrying too much about coding it (as said, this is a proof-of-concept). The template used can be found [here](https://github.com/Drassil/git-wiki-theme).
 
-`A simple list of steps indicating how one can run and test the project.`
+**Hosting the website:**
+
+ To host the website we used [Github Pages](https://pages.github.com/), a free service.
+
+You can check the prototype at [https://zenitheesc.github.io/Zenith-Wiki/main_page](https://zenitheesc.github.io/Zenith-Wiki/main_page)
+
 
 ## How to contribute
 
-`(optional, depends on the project) list of simple rules to help people work on the project.`
-
-`Examples: How to format a pull request\n How to format an issue`
+This project has been **archived**. Which means we're not currently working on it at the moment. Suggestions are always welcome though and you can reach us on our Social Media linked below. 
 
 ---
 
